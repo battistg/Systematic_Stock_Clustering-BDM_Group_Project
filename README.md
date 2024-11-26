@@ -1,6 +1,6 @@
-## Systematic Clustering and Prediction of S&P 500 stocks
+# Systematic Clustering and Prediction of S&P 500 stocks
 
-# Executive Summary
+## Executive Summary
 
 Making the right investment choices is always a challenge for market operators, given the vast number of stocks and the ever-changing market. This project addresses the complexity of stock selection by developing a model that groups stocks based on risk and return characteristics using historical S&P 500 data.
 
@@ -8,7 +8,7 @@ The model simplifies the stock selection process by categorizing stocks into dis
 
 ---
 
-# Features of the Project
+## Features of the Project
 
 - **Clustering with K-Means**:
   - Group stocks based on risk-return characteristics.
@@ -25,13 +25,13 @@ The model simplifies the stock selection process by categorizing stocks into dis
 
 ---
 
-# Data Source
+## Data Source
 
 The project uses historical stock prices from the **S&P 500 index**, obtained through the R package `tidyquant`.
 
 ---
 
-# Requirements
+## Requirements
 
 To run the project, you need the following R packages installed:
 
@@ -49,7 +49,7 @@ library(rpart.plot)
 library(FNN)
 ```
 
-# Authors
+## Authors
 **Giovanni Battistella**: https://github.com/battistg
 **Angel Echaide**: https://github.com/angelechaide
 **Gonzalo Gonzalez**: https://github.com/gonzaloignacio
