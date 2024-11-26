@@ -38,5 +38,14 @@ The project uses historical stock prices from the **S&P 500 index**, obtained th
 To run the project, you need the following R packages installed:
 
 ```{r, eval=FALSE}
-install.packages(c("dplyr", "tidyquant", "cluster", "caret", "rpart", 
-                   "rpart.plot", "FNN", "factoextra"))
+# Install packages
+install.packages(c("dplyr", "tidyquant", "cluster", "caret", "rpart", "rpart.plot", "FNN"))
+
+# Load packages
+library(dplyr)
+library(tidyquant)
+library(cluster)
+library(caret)
+library(rpart)
+library(rpart.plot)
+library(FNN)
