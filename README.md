@@ -39,4 +39,4 @@ To run the project, you need the following R packages installed:
 
 ```{r, eval=FALSE}
 install.packages(c("dplyr", "tidyquant", "cluster", "caret", "rpart", 
-                   "rpart.plot", "FNN", "factoextra", "readxl", "openxlsx"))
+                   "rpart.plot", "FNN", "factoextra"))
