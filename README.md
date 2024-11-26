@@ -1,10 +1,10 @@
 
-## Stock Classification Model: S&P 500 Analysis
+## Systematic Clustering and Prediction of S&P 500 stocks
 
 
 # Executive Summary
 
-Making the right stock choices for clients is always a challenge for investment firms, given the vast number of stocks and the ever-changing market. This project addresses the complexity of stock selection by developing a model that groups stocks based on risk and return characteristics using historical S&P 500 data.
+Making the right investment choices is always a challenge for market operators, given the vast number of stocks and the ever-changing market. This project addresses the complexity of stock selection by developing a model that groups stocks based on risk and return characteristics using historical S&P 500 data.
 
 The model simplifies the stock selection process by categorizing stocks into distinct clusters, each corresponding to a specific investor profile: conservative, balanced, and aggressive. This systematic approach improves alignment with client goals and promotes efficiency in decision-making processes. The methodology has also been successfully tested on the NASDAQ 100, demonstrating its adaptability across different markets.
 
@@ -23,7 +23,7 @@ The model simplifies the stock selection process by categorizing stocks into dis
   - The model can be extended to other indices like the NASDAQ 100.
 
 - **Efficiency**:
-  - Automates the categorization process, saving time for investment firms.
+  - Automates the categorization process, saving time for market operators.
 
 ---
 
