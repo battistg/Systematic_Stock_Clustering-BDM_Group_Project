@@ -1,6 +1,4 @@
-
 ## Systematic Clustering and Prediction of S&P 500 stocks
-
 
 # Executive Summary
 
@@ -37,7 +35,7 @@ The project uses historical stock prices from the **S&P 500 index**, obtained th
 
 To run the project, you need the following R packages installed:
 
-```{r, eval=FALSE}
+```r
 # Install packages
 install.packages(c("dplyr", "tidyquant", "cluster", "caret", "rpart", "rpart.plot", "FNN"))
 
@@ -49,4 +47,11 @@ library(caret)
 library(rpart)
 library(rpart.plot)
 library(FNN)
+```
 
+# Authors
+**Giovanni Battistella**: https://github.com/battistg
+**Angel Echaide**: https://github.com/angelechaide
+**Gonzalo Gonzalez**: https://github.com/gonzaloignacio
+**Laxmi Prabhu Kundapur**: https://github.com/Laxmi123-eng
+**Lu Zhou**: https://github.com/LuZhou17
