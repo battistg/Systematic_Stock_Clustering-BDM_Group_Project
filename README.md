@@ -29,7 +29,7 @@ The model simplifies the stock selection process by categorizing stocks into dis
 
 # Data Source
 
-The project uses historical stock prices from the **S&P 500 index**, obtained through the R package `tidyquant`. This dataset includes 500 of the largest companies traded on U.S. stock exchanges.
+The project uses historical stock prices from the **S&P 500 index**, obtained through the R package `tidyquant`.
 
 ---
 
